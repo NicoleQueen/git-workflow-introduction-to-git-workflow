@@ -8,9 +8,8 @@
 ## Introduction
 
 Developers use version control systems (VCS) to organize our code and the most
-commonly used VCS is Git. We now know the basics of Git, so we're ready to learn
-some more advanced Git commands and how to use Git effectively in our own coding
-workflow.
+commonly used VCS is Git. There are a number of tools and techniques we can use
+to effectively integrate Git in our own coding workflow.
 
 ## Review Git Basics
 
