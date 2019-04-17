@@ -18,14 +18,13 @@ including:
 
 - Identify how to initialize a Git repository with `git init`
 - Check the status of a repository with `git status`
-- Keep track of file changes with `git add`
+- Prepare file changes to be committed with `git add`
 - Create a commit and apply a commit message with `git commit`
 - Copy a repository to your local machine with `git clone`
 - List remotes with `git remote`
 - Duplicate other organizations' repositories into your own via GitHub with `git fork`
 - Create a remote repository on GitHub
-- Connect a local repository to a remote repository
-- Set the destination of a repo with `git remote`
+- Connect a local repository to a remote repository with `git remote`
 - Send code to the remote repo with `git push`
 
 If any of these seem less familiar than others, this is a good time to go back
@@ -34,7 +33,9 @@ need these basics as we move on to more Git.
 
 ## Preview Git Workflow
 
-Git gives us a lot of special powers and over the next several lessons we'll explore some more of them. We'll learn one of the most useful Git features, branching. Specifically, we'll see how to:
+Git gives us a lot of special powers and over the next several lessons we'll
+explore some more of them. We'll learn one of the most useful Git features,
+***branching***. Specifically, we'll see how to:
 
 - Create a branch
 - Delete a branch
@@ -43,10 +44,16 @@ Git gives us a lot of special powers and over the next several lessons we'll exp
 - Discuss local and remote branches
 - Merge a branch
 - Practice merging branches
-- Review a repository’s history
-- Review a Git commit's "diff"
-- Unstage changes
-- Revert changes
+
+## Enrich Existing Git Skills
+
+In addition, to accomplish the work we just described with branches, we'll sometimes
+need Git to help us get more information or correct mistakes. 
+
+- Review a repository’s history ("Tell me the story of how this codebase changed since 4 days ago...")
+- Review a Git commit's "diff" ("What changed in that commit?")
+- Unstage changes ("Don't add _that_ to a commit!")
+- Revert changes ("Undo that commit!")
 
 By the time we've worked through these lessons, you'll have a list of new Git
 tools to use in your regular coding workflow.
