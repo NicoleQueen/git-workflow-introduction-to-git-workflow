@@ -8,8 +8,12 @@
 ## Introduction
 
 Developers use version control systems (VCS) to organize our code and the most
-commonly used VCS is Git. There are a number of tools and techniques we can use
-to effectively integrate Git in our own coding workflow.
+commonly used VCS is Git. Git provides a number of tools and techniques we can use
+to improve our effectiveness as developers: creating backups, creating "save points"
+where which we can "undo" to, sharing work between team-mates. Remember, Git, and
+VCS in general, are all about giving us the ability to be unafraid to make changes.
+By putting ***risk*** in check, we gain ***freedom***. That's a great place to be in
+when we're writing code!
 
 ## Review Git Basics
 
